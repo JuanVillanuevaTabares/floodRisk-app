@@ -1,0 +1,13 @@
+dash
+dash_bootstrap_components
+dash_html_components
+pandas
+matplotlib
+dash_leaflet
+geopandas
+dash_bootstrap_templates
+dash_extensions
+diskcache
+dash[diskcache]
+dash_auth
+sodapy
